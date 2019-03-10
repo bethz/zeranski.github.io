@@ -3,7 +3,7 @@
 # theme: jekyll-theme-leap-day
 # theme: blackdoc
 # theme: architect
-# theme: jekyll-theme-slate
-theme: massively
+theme: jekyll-theme-slate
+# theme: massively
 title: Welcome to BethZ's webpage!
 description: This is a place to find all of BethZ's current projects.
