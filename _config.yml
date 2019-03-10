@@ -1,10 +1,10 @@
 # theme: jekyll-theme-slate
-theme: carte-noire
+# theme: carte-noire
 # theme: jekyll-theme-leap-day
-# theme: jekyll-theme-slate
 # theme: blackdoc
 #remote_theme: minimal-mistakes
 # theme: Midnight
-# theme: modern-blog, naringu, skinny-bones-jekyll, solar-theme-jekyll
+theme: modern-blog 
+#naringu, skinny-bones-jekyll, solar-theme-jekyll
 title: Welcome to BethZ's webpage!
 description: This is a place to find all of BethZ's current projects.
