@@ -3,8 +3,8 @@
 # theme: jekyll-theme-leap-day
 # theme: jekyll-theme-slate
 # theme: blackdoc
-remote_theme: minimal-mistakes
-# theme: midnight
+#remote_theme: minimal-mistakes
+theme: midnight
 # theme: modern-blog, naringu, skinny-bones-jekyll, solar-theme-jekyll
 title: Welcome to BethZ's webpage!
 description: This is a place to find all of BethZ's current projects.
