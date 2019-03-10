@@ -1,4 +1,5 @@
 # theme: jekyll-theme-slate
-theme: carte-noire
+# theme: carte-noire
+theme: jekyll-clean
 title: Welcome to BethZ's webpage!
 description: This is a place to find all of BethZ's current projects.
