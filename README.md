@@ -1,36 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to BethZ's website!
+ 
+ I would like to share information I've learned to make it easier for others to ramp in this space.  I'm currently an Azure Cloud Architect and my speciality is data, AI, Machine Learning and Analytics and Business Intelligence. My specialties include using my technical capabilities to create successful technical projects or leveraging my business acumen to  create solid outcomes for my partners.  As I've recently dusted off my website, these pages are a work in progress!
 
-You can use the [editor on GitHub](https://github.com/bethz/bethz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### AI + Machine Learning
+Microsoft truly has democratized AI for every person and every organization on the planet.  If you would like to try an example of Azure Machine Learning that explains how to think about Machine Learning check out my tutorial on my GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Analytics, Business Intelligence and AI
+'''
+When it comes to outcomes:
+                                                                 If it's not measured, it doesn't matter!
+'''
+Leveraging Business Intelligence, is all about efficiently leveraging data to gain effective insights to create successful strategic planning and execution outcomes. Too often, people get buried in the data, the models  and the methodology while they miss the key contributors to keep an eye on. And then, you must implement a scorecard to ensure you remain on target for the major items you actually care about because it's too easy to miss one moving part in a million. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bethz/bethz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I'm Beth Zeranski and I'm leveraging my experience with AI, Machine Learning, Analytics and Business Intelligence (BI) to help others avoid some of the speed bumps I've encountered in a number of real-world projects I've worked on in this space.
 
 ### Support or Contact
 
